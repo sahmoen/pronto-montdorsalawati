@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* optional: to see the centering effect */
+}
+
+picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    max-width: 100%;
+    height: auto;
+    width: 50%; /* Adjust the width as needed */
+}
